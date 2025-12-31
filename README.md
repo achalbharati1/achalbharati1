@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hii I'm Achal Bharati
+💫 About Me:
 🔭 I’m currently working on<br>Full-stack web development projects using Java, Spring Boot, React, and MySQL<br>Improving my DSA and problem-solving skills<br><br>👯 I’m looking to collaborate on<br>Open-source projects related to Web Development<br>Beginner–friendly Java / React / MERN projects<br>AI/ML learning projects and mini-apps<br><br>🤝 I’m looking for help with<br>Java and SQL concepts<br>System design basics<br>Optimizing React applications<br>Real-world AI/ML project ideas<br><br>🌱 I’m currently learning<br>Artificial Intelligence & Machine Learning<br>Advanced Java<br>Backend development with Spring Boot<br>Data Structures & Algorithms<br><br>💬 Ask me about<br>Java, C, C++ basics<br>React & frontend development<br>REST APIs<br>Git & GitHub<br>Project setup for beginners<br><br>⚡ Fun fact<br><br>I love turning complex problems into simple solutions 🚀<br>I enjoy learning new tech and building projects late at night 😄<br>
 
 
